@@ -1,2 +1,2 @@
 # apoyomx23.github.io
-Son pruebas para generar constancias de asistencia acadímicas.
+Son pruebas para generar constancias de asistencia académicas.
